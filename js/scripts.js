@@ -25,7 +25,7 @@ async function getAllPosts() {
         title.innerText = post.title;
         body.innerText = post.body;
         link.innerText = "Saiba Mais";
-        link.setAttribute("href", `/post.html?id=${post.id}`);
+        link.setAttribute("href", `./post.html?id=${post.id}`);
 
         // colocar tudo na div
         div.appendChild(title);
