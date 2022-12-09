@@ -11,3 +11,5 @@ Um abraço.
 Se queserem fazer o clone e se divertir, esta liberado.
 
 Na fonte tb tem o link do professor liberado.
+
+Nota: não vai abrir a segunda pagina por aqui. 
